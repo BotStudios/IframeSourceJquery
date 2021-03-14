@@ -1,6 +1,5 @@
 # IframeSourceJquery
-you don't need iframe now !
-
+now you don't need iframe
 ```
 <body onload="docs()">
 <div id="docs"></div>
